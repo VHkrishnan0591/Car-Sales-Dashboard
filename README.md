@@ -3,19 +3,19 @@
 KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
-1.Sales Overview:
+### 1. Sales Overview:
  - Year-To-Year (YTD) Total Sales
  - Month- To-Month (MTD) Total Sales
  - Year-Over-Year (YOY) Growth in Sales
  - Difference between Year-To-Date (YTD) Sales and Previous Year-To-Date (PYTD) Sales
 
-2.Average Price Analysis:
+### 2. Average Price Analysis:
  - Year-To-Date(YTD) Average Price
  - Month- To-Month (MTD) Average Price
  - Year-Over-Year (YOY) Growth in Average Price
  - Difference between Year-To-Date (YTD) Average Price and Previous Year-To-Date (PYTD) Average Price.
 
-3.Car Sold Metrics:
+### 3.Car Sold Metrics:
  - Year-To-Date(YTD) Cars Sold
  - Month- To-Month (MTD) Cars Sold
  - Year-Over-Year (YOY) Growth in Cars Sold
@@ -23,9 +23,10 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ---
 
-Charts Requirement:
+# Charts Requirement:
 
-1.YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
+## **1.YTD Sales Weekly Trend**: ## 
+Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 
 2.YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
 
